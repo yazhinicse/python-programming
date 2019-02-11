@@ -3,4 +3,4 @@ y=str(input("enter a letter"))
 if(y in x):
  print("vowel");
 else:
- print("invalid");
+ print("constant");
